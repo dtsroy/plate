@@ -1,0 +1,6 @@
+data/val
+data/train/images_p
+data/train/images
+#model/
+__pycache__/
+.idea/
